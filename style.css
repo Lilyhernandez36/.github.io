@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+}
+body {
+    overflow: hidden;
+}
+
+.video {
+    position: relative;
+    width: 100%;
+}
+
+.intro {
+    position: relative;
+    color: white;
+    bottom: 1060px;
+    left: 80px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Titulo {
+    position: relative;
+    color: white;
+    bottom: 910px;
+    left: 80px;
+    font-size: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Titulo1 {
+    position: relative;
+    color: white;
+    left: 80px;
+    bottom: 950px;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.parrafo {
+    position: relative;
+    color: white;
+    bottom: 950px;
+    left: 85px;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.boton {
+    position: relative;
+    background-color: white;
+    bottom: 910px;
+    left: 85px;
+    font-size: 16px;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    padding: 14px 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 7px;
+}
+
+
+
+.menu {
+    position: relative;
+    color: white;
+    left: 1740px;
+    bottom: 1020px;
+}
+
+
+.icono {
+    position: relative;
+    bottom: 260px;
+    left: 30px;
+    filter: invert();
+    width: 13px;
+
+}
+
+
+.icono2 {
+    position: relative;
+    bottom: 260px;
+    left: 60px;
+    filter: invert();
+    width: 25px;
+}
+
+
+.icono3 {
+    position: relative;
+    bottom: 260px;
+    left: 90px;
+    filter: invert();
+    width: 25px;
+    
+}
